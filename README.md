@@ -6,7 +6,7 @@ This project was built to use machine learning in conjunction with technical ind
 
 ## Technologies
 
-This application opens in a Jupyter Notebook.  Also, a Google Colab instance can be found at   
+This application opens in a Jupyter Notebook.  Also, a Google Colab instance can be found [here](https://colab.research.google.com/drive/16GbtEZZysnFVZyqKqaenNICNIu5CMXBW?usp=sharing)   
 
 This notebook requires the following imports.  Depending on your installed library, you may need to install some python libraries.
 
